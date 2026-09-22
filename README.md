@@ -22,11 +22,10 @@
 | **[Innopolis](https://github.com/toptyga88/Innopolis)** | Три учебных кейса: анализ игроков разных стран, вероятность страхового случая, показатели студентов | Jupyter, pandas |
 | **[footballapp](https://github.com/toptyga88/footballapp)** | Приложение для обзора и предсказания футбольных матчей | Python |
 
-## 📈 Активность
+## 📈 Языки
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toptyga88&show_icons=true&hide_border=true&theme=default&locale=ru" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toptyga88&layout=compact&hide_border=true&theme=default&locale=ru" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toptyga88&layout=compact&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ## 💬 Связь
